@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Sid!</h1>
-<h3 align="center">A student trying to learn as much as he can about security engineering and architecture.</h3>
+<h1 align="left">Hi 👋, I'm Sid!</h1>
+<h3 align="left">A student trying to learn as much as he can about security engineering and architecture.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
