@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sid!</h1>
 <h3 align="left">A student trying to learn as much as he can about security engineering and architecture.</h3>
 
-- 🔭 I’m currently working on **my CS degree from the University of Texas at Dallas!**
+- 🔭 I’m currently working on my CS degree from the **University of Texas at Dallas!**
 
 - 🥅 2025 Goals: **Coding and learning a new security skill everyday and continuing to meet new people!**
 
@@ -13,7 +13,6 @@
 
 - 📫 Reach me through: **siddharth.sriram1292@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
