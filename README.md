@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything 😀**
 
-- 🥖Fun fact: **I love baking all kinds of bread! Ask me anything about bread!**
+- ⚔️ Fun fact: **I love Star Wars! Ask me anything about the Star Wars Universe!**
 
 - 📫 Reach me through: **siddharth.sriram1292@gmail.com**
 
