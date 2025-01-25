@@ -13,7 +13,7 @@
 
 - 📫 Reach me through: **siddharth.sriram1292@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/siddharth-sriram-68145b240/ </h3>
 <p align="left">
 </p>
 
