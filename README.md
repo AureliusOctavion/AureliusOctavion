@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sid!</h1>
-<h3 align="left">A student trying to learn as much as he can about security engineering and architecture.</h3>
+<h3 align="left">A student trying to learn as much as he can about application security</h3>
 
 - 🔭 I’m currently working on my CS degree from the **University of Texas at Dallas!**
 
