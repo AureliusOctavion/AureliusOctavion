@@ -11,4 +11,4 @@
 <p align="left">
 </p>
 
-<h3 align="left">Security Blog (I track my progress, learning, and any interesting topics I research on and dive deep into publishing my findings here):</h3>
+<h3 align="left">Security Blog (I track my progress, learning, and any interesting topics I research on and dive deep into publishing my findings here): **IN PROGRESS** </h3>
