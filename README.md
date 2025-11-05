@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sid!</h1>
-<h3 align="left">A student trying to learning as much as he can about blue teaming!</h3>
+<h3 align="left">A student trying to learning as much as he can about security!</h3>
 
 - Windows Security Nerd and builder of security tools
 
